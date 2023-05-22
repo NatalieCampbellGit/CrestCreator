@@ -29,5 +29,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
 ## Links
+The URL of the deployed application: https://nataliecampbellgit.github.io/CrestCreator/
+
+The URL of the GitHub repository: https://github.com/NatalieCampbellGit/CrestCreator
+
+Check out this video I recorded with Screencastify: 
+
+The Generated-README.md: 
 
 ## Preview
