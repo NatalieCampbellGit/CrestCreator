@@ -33,7 +33,7 @@ The URL of the deployed application: https://nataliecampbellgit.github.io/CrestC
 
 The URL of the GitHub repository: https://github.com/NatalieCampbellGit/CrestCreator
 
-Check out this video I recorded with Screencastify: 
+Check out this video I recorded with Screencastify: https://drive.google.com/file/d/1MCZbBTkCT4uqVzDqwN-KqMAVc_BR6av0/view
 
 ## Preview
 ![image1](./examples/logocircle.PNG)
