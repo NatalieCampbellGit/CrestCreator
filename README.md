@@ -35,10 +35,7 @@ The URL of the GitHub repository: https://github.com/NatalieCampbellGit/CrestCre
 
 Check out this video I recorded with Screencastify: 
 
-The Generated-README.md: 
-
 ## Preview
-![image1](./images/logocircle.PNG)
-![image2](./images/logosquare.PNG)
-![image3](./images/logotriangle.PNG)
-![image4](./images/demo.PNG)
+![image1](./examples/logocircle.PNG)
+![image2](./examples/logosquare.PNG)
+![image3](./examples/logotriangle.PNG)
